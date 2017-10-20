@@ -1,0 +1,10 @@
+this is  a syntax checker.
+Notes:
+1. in expression while assigning values do not use spase
+2. result will tell you that if a specific line is correct or not in ecllipse output window.
+3. All these syntax checking is done through using regix. 
+4. there is an interpreter function but it is not complete. but the bacis idea can
+be check that how I was going to implement this.
+5. interpreter function was being done by tokenizing each statement and storing values and then applying
+operations on respective items such as if else, while conditions
+6. Due to shortage of time..I did'nt complte the interpreter function

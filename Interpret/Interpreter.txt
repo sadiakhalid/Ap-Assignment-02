@@ -1,0 +1,7 @@
+var x:int=10;
+var y:int;
+y=0;
+while x>y do y=y+1;
+print y;
+var x:bool=tt;
+if x>y then y=y+1 else y=y-1;
